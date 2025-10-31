@@ -1,0 +1,62 @@
+[
+    {
+        "x": 296,
+        "y": 330,
+        "width": 54,
+        "height": 166,
+        "confidence": 0.7852291464805603,
+        "class": "Sprite_medium",
+        "class_id": 23,
+        "detection_id": "1c9a451f-ccab-4d77-99ed-662bd90e13ef",
+        "image_path": "C:\\Users\\SHIVSH~1\\AppData\\Local\\Temp\\tmptkvnslw3.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 314,
+        "y": 528,
+        "width": 63,
+        "height": 178,
+        "confidence": 0.7269963026046753,
+        "class": "Coke_medium",
+        "class_id": 4,
+        "detection_id": "af0b84dd-5db6-413a-b950-facef924d54f",
+        "image_path": "C:\\Users\\SHIVSH~1\\AppData\\Local\\Temp\\tmptkvnslw3.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 122,
+        "y": 326,
+        "width": 61,
+        "height": 173,
+        "confidence": 0.699134886264801,
+        "class": "Coke_medium",
+        "class_id": 4,
+        "detection_id": "2208fc37-6c9a-4666-a79b-d3a997bc48e3",
+        "image_path": "C:\\Users\\SHIVSH~1\\AppData\\Local\\Temp\\tmptkvnslw3.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 196,
+        "y": 521,
+        "width": 46,
+        "height": 150,
+        "confidence": 0.6648461818695068,
+        "class": "thumpsup_medium",
+        "class_id": 54,
+        "detection_id": "51cdbf11-9ac5-41ed-ad6e-6fba46c9d2bb",
+        "image_path": "C:\\Users\\SHIVSH~1\\AppData\\Local\\Temp\\tmptkvnslw3.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 371,
+        "y": 135,
+        "width": 54,
+        "height": 135,
+        "confidence": 0.4912242293357849,
+        "class": "thumbsup_small",
+        "class_id": 53,
+        "detection_id": "d995b00a-f1a7-4720-a1e0-29f102a0c91f",
+        "image_path": "C:\\Users\\SHIVSH~1\\AppData\\Local\\Temp\\tmptkvnslw3.png",
+        "prediction_type": "ObjectDetectionModel"
+    }
+]
