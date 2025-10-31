@@ -1,0 +1,62 @@
+[
+    {
+        "x": 296,
+        "y": 330,
+        "width": 54,
+        "height": 166,
+        "confidence": 0.7852291464805603,
+        "class": "Sprite_medium",
+        "class_id": 23,
+        "detection_id": "fccb2ebe-5594-4a89-aafa-94ab3c5408d3",
+        "image_path": "Images\\C005683_20241129132049_A.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 314,
+        "y": 528,
+        "width": 63,
+        "height": 178,
+        "confidence": 0.7269963026046753,
+        "class": "Coke_medium",
+        "class_id": 4,
+        "detection_id": "6fbb3e1a-c1d0-4113-b5fa-92a18afdac51",
+        "image_path": "Images\\C005683_20241129132049_A.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 122,
+        "y": 326,
+        "width": 61,
+        "height": 173,
+        "confidence": 0.699134886264801,
+        "class": "Coke_medium",
+        "class_id": 4,
+        "detection_id": "149ed901-77f0-411b-a2bd-c276f8f0a457",
+        "image_path": "Images\\C005683_20241129132049_A.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 196,
+        "y": 521,
+        "width": 46,
+        "height": 150,
+        "confidence": 0.6648461818695068,
+        "class": "thumpsup_medium",
+        "class_id": 54,
+        "detection_id": "6b7846ec-fe6a-440d-96ad-504f847a4700",
+        "image_path": "Images\\C005683_20241129132049_A.png",
+        "prediction_type": "ObjectDetectionModel"
+    },
+    {
+        "x": 371,
+        "y": 135,
+        "width": 54,
+        "height": 135,
+        "confidence": 0.4912242293357849,
+        "class": "thumbsup_small",
+        "class_id": 53,
+        "detection_id": "2cbb7838-4d79-4a29-8c41-1e19c362956b",
+        "image_path": "Images\\C005683_20241129132049_A.png",
+        "prediction_type": "ObjectDetectionModel"
+    }
+]
